@@ -49,6 +49,6 @@ Container: (<https://www.pocketcontainer.de/open_side_40_ft.php>)
 - 
 
 ```{r}
-knitr:: include_graphics("tiny_1.JPG")
+knitr:: include_graphics("pictures/tiny_1.JPG")
 ```
 
