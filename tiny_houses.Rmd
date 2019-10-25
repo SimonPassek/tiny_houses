@@ -12,7 +12,15 @@ output:
 
 Container: (<https://www.pocketcontainer.de/open_side_40_ft.php>)
 
+## Maße und Vorgaben
+ 4m hoch,3,25 ist die Kabine hoch; 7,50 m lang, 2,55 breit
+ - erlaubt 2,55 meter breite, 4 meter höhe, 12 meter länge
+- 2,50 ist das Bett, 2 meter ist das Bett hoch
 
+- Vorgaben für eine Straßenzulassung
+
+
+## Materialien
 - Karosserie KLeber
 - Schlagschnur
 - Platte Siebdruckplatten, wasserfest
@@ -20,12 +28,7 @@ Container: (<https://www.pocketcontainer.de/open_side_40_ft.php>)
 
 - Rahmen für die Wände
 - wasser fester Leim, schäumt auf
-- 4m hoch,3,25 ist die Kabine hoch; 7,50 m lang, 2,55 breit
-- 2,50 ist das Bett, 2 meter ist das Bett hoch
 
-- erlaubt 2,55 meter breite, 4 meter höhe, 12 meter länge
-
-- Vorgaben für eine Straßenzulassung
 - 3 SChicht platte
 - Fichte und Pappel, leicht
 
@@ -60,4 +63,14 @@ knitr:: include_graphics("pictures/tiny_1.JPG")
 
 
 - alles
+
+
+
+## Raumaufteilung- Ideen
+
+Bad mit Dusche, Trennklo, Waschmaschine. um die Waschmaschine Holzkonstruktion, die das Waschbecken am vorderen Rand auf der Waschmaschine trägt. Dahinter Abstellplatz.
+Schiebetür zum Badezimmer, die man zu zwei Seiten hin öffnet.  Den gewonnenen Platz nutzen für Schrank/ Garderobe o.ä.
+
+
+Schienen in wand, an denen ich regale hin und her schieben kann. 
 
