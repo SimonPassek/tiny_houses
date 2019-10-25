@@ -2,10 +2,7 @@
 ---
 title: "tiny house"
 output:
-  html_document:
-    theme: journal
-  html_notebook:
-    theme: journal
+  html_document
 ---
 
 (<https://www.youtube.com/watch?v=BJDYlJaMuv>)
