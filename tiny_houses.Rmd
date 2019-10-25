@@ -2,10 +2,10 @@
 ---
 title: "tiny house"
 output:
-  html_notebook: default
-  pdf_document: default
-editor_options: 
-  chunk_output_type: inline
+  html_document:
+    theme: journal
+  html_notebook:
+    theme: journal
 ---
 
 (<https://www.youtube.com/watch?v=BJDYlJaMuv>)
